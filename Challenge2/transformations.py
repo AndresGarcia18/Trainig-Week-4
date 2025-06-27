@@ -33,7 +33,6 @@ def country_recognition(value):
         return (value, '')
 
 def format_phone(phone_number: str, country: str) -> tuple[str , str]:
-        
     ext_match = re.search(r'(ext\s*\d+)', phone_number, re.IGNORECASE)
     ext = ext_match.group(1) if ext_match else ""
 
@@ -46,10 +45,11 @@ def format_phone(phone_number: str, country: str) -> tuple[str , str]:
     if len(phone_number) > 4:
         phone_number = phone_number[:4] + ' ' + phone_number[4:]
 
-    if country.lower() == "england":
-        phone_number = "+(44)" + phone_number
-    elif country.lower() == "ireland":
-        phone_number = "+(353)" + phone_number
+    if phone_number:
+        if country.lower() == "england":
+            phone_number = "+(44)" + phone_number
+        elif country.lower() == "ireland":
+            phone_number = "+(353)" + phone_number
 
     return (phone_number, ext)
 
