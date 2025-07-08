@@ -1,11 +1,11 @@
-Source Property Name,Random Value Sample,Must be on HubSpot?,Must be on HubSpot? No Reason,New Suggested Name for HubSpot,Internal Name Suggested for HubSpot,Number of records with values in this property,Options Found,Possible Field Type,Possible Internal Values Type,Possible Internal Field Type,Values related  from a foreign Frame?,Foreign file name,Foreign file path,Foreign column name to get values,Foreign column with shared key,Possible Group Name,New Suggested Name for HubSpot by Soruce HubSpot,Internal Name Suggested for HubSpot by Soruce HubSpot,Soruce HubSpot Options,Soruce HubSpot Type
-firstname,Carrie,Yes,,Firstname,firstname,6789.0,,Single-line text,string,text,,,,,,contactinformation,,,,
-lastname,Rees,Yes,,Lastname,lastname,6789.0,,Single-line text,string,text,,,,,,contactinformation,,,,
-country,Dublin,Yes,,Country,country,6853.0,"['Dublin', 'Oxford', 'Limerick', 'Cork', 'Winchester', 'Plymouth', 'Milton Keynes', 'London', 'Waterford', 'England', 'Ireland']",Dropdown select,enumeration,select,,,,,,contactinformation,,,,
-phone,0-045-278-522 ext 25,Yes,,Phone,phone,6781.0,,Single-line text,string,text,,,,,,contactinformation,,,,
-training___create_date,2021-03-26,Yes,,Training Create Date,training_create_date,6936.0,,Date picker,date,date,,,,,,contactinformation,,,,
-industry,Animal feeds,Yes,,Industry,industry,6936.0,"['Animal feeds', 'Fruit and vegetables', 'Meat', 'Poultry and fish', 'Dairy products', 'Bakery products', 'Milling']",Dropdown select,enumeration,select,,,,,,contactinformation,,,,
-address,"Boadicea Lane, 1368",Yes,,Address,address,6936.0,,Single-line text,string,text,,,,,,contactinformation,,,,
-checkbox,True,Yes,,Checkbox,checkbox,6899.0,,Single checkbox,enumeration,booleancheckbox,,,,,,contactinformation,,,,
-raw_email_id,360,Yes,,Raw Email Id,raw_email_id,6936.0,,Number,number,number,,,,,,contactinformation,,,,
-hs_object_id,89900742223,Yes,,Hs Object Id,hs_object_id,6936.0,,Number,number,number,,,,,,contactinformation,,,,
+Source Property Name,Random Value Sample,Must be on HubSpot?,Must be on HubSpot? No Reason,New Suggested Name for HubSpot,Internal Name Suggested for HubSpot,Number of records with values in this property,Options Found,Possible Field Type,Possible Internal Values Type,Possible Internal Field Type,Values related  from a foreign Frame?,Foreign file name,Foreign file path,Foreign column name to get values,Foreign column with shared key,Possible Group Name
+firstname,Carrie,Yes,,Firstname,firstname,6789.0,,Single-line text,string,text,,,,,,contactinformation
+lastname,Rees,Yes,,Lastname,lastname,6789.0,,Single-line text,string,text,,,,,,contactinformation
+country,Dublin,Yes,,Country,country,6853.0,"['Dublin', 'Oxford', 'Limerick', 'Cork', 'Winchester', 'Plymouth', 'Milton Keynes', 'London', 'Waterford', 'England', 'Ireland']",Dropdown select,enumeration,select,,,,,,contactinformation
+phone,0-045-278-522 ext 25,Yes,,Phone,phone,6781.0,,Single-line text,string,text,,,,,,contactinformation
+training___create_date,2021-03-26,Yes,,Training Create Date,training_create_date,6936.0,,Date picker,date,date,,,,,,contactinformation
+industry,Animal feeds,Yes,,Industry,industry,6936.0,"['Animal feeds', 'Fruit and vegetables', 'Meat', 'Poultry and fish', 'Dairy products', 'Bakery products', 'Milling']",Dropdown select,enumeration,select,,,,,,contactinformation
+address,"Boadicea Lane, 1368",Yes,,Address,address,6936.0,,Single-line text,string,text,,,,,,contactinformation
+checkbox,True,Yes,,Checkbox,checkbox,6899.0,,Single checkbox,enumeration,booleancheckbox,,,,,,contactinformation
+raw_email_id,360,Yes,,Raw Email Id,raw_email_id,6936.0,,Number,number,number,,,,,,contactinformation
+hs_object_id,89900742223,Yes,,Hs Object Id,hs_object_id,6936.0,,Number,number,number,,,,,,contactinformation

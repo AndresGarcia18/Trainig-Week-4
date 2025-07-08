@@ -1,11 +1,11 @@
 Source Property Name,Random Value Sample,Must be on HubSpot?,Must be on HubSpot? No Reason,New Suggested Name for HubSpot,Internal Name Suggested for HubSpot,Number of records with values in this property,Options Found,Possible Field Type,Possible Internal Values Type,Possible Internal Field Type,Values related  from a foreign Frame?,Foreign file name,Foreign file path,Foreign column name to get values,Foreign column with shared key,Possible Group Name,Operation State
-firstname,Carrie,Yes,,First Name,firstname,6789,,Single-line text,string,text,,,,,,contactinformation,Success! Set-Up Correctly
-lastname,Rees,Yes,,Last Name,lastname,6789,,Single-line text,string,text,,,,,,contactinformation,Success! Set-Up Correctly
-country,Dublin,Yes,,Country/Region,country,6853,"['Dublin', 'Oxford', 'Limerick', 'Cork', 'Winchester', 'Plymouth', 'Milton Keynes', 'London', 'Waterford', 'England', 'Ireland']",Dropdown select,enumeration,select,,,,,,contactinformation,Success! Set-Up Correctly
-phone,0-045-278-522 ext 25,Yes,,Phone Number,phone,6781,,Single-line text,string,text,,,,,,contactinformation,Need To Review
-training___create_date,3/26/2021,Yes,,Training Create Date,training_create_date,6936,,Date picker,date,date,,,,,,contactinformation,Success! Set-Up Correctly
-industry,Animal feeds,Yes,,Industry,industry,6936,"['Fruit', 'Vegetables', 'Bakery products', 'Animal feeds', 'Poultry', 'Fish', 'Milling', 'Meat', 'Dairy products']",Multiple checkboxes,enumeration,checkbox,,,,,,contactinformation,Success! Set-Up Correctly
-address,"Boadicea Lane, 1368",Yes,,Street Address,address,6936,,Single-line text,string,text,,,,,,contactinformation,Success! Set-Up Correctly
-checkbox,True,Yes,,Checkbox,checkbox,6899,,Single checkbox,enumeration,booleancheckbox,,,,,,contactinformation,Success! Set-Up Correctly
-hs_object_id,89900742223,Yes,,Temporary ID,hs_object_id,6936,,Number,number,number,,,,,,contactinformation,Success! Set-Up Correctly
-raw_email_id,carrie_rees1243518944@tonsy.org,Yes,,Email,email,6875,,Single-line text,string,text,Yes,Raw Email Ids.csv,"C:\Users\Andres Garcia Bayona\Documents\Training\APIs, CRMs and notebook management\Challenge1",Raw Email,Id,contactinformation,Success! Set-Up Correctly
+firstname,Carrie,Yes,,First Name,firstname,6789,,Single-line text,string,text,,,,,,contactinformation,Error
+lastname,Rees,Yes,,Last Name,lastname,6789,,Single-line text,string,text,,,,,,contactinformation,Error
+country,Dublin,Yes,,Country/Region,country,6853,"['Dublin', 'Oxford', 'Limerick', 'Cork', 'Winchester', 'Plymouth', 'Milton Keynes', 'London', 'Waterford', 'England', 'Ireland']",Dropdown select,enumeration,select,,,,,,contactinformation,Error
+phone,0-045-278-522 ext 25,Yes,,Phone Number,phone,6781,,Single-line text,string,text,,,,,,contactinformation,Error
+training___create_date,3/26/2021,Yes,,Training Create Date,training_create_date,6936,,Date picker,date,date,,,,,,contactinformation,Error
+industry,Animal feeds,Yes,,Industry,industry,6936,"['Fruit', 'Vegetables', 'Bakery products', 'Animal feeds', 'Poultry', 'Fish', 'Milling', 'Meat', 'Dairy products']",Multiple checkboxes,enumeration,checkbox,,,,,,contactinformation,Error
+address,"Boadicea Lane, 1368",Yes,,Street Address,address,6936,,Single-line text,string,text,,,,,,contactinformation,Error
+checkbox,True,Yes,,Checkbox,checkbox,6899,,Single checkbox,enumeration,booleancheckbox,,,,,,contactinformation,Error
+hs_object_id,89900742223,Yes,,Temporary ID,hs_object_id,6936,,Number,number,number,,,,,,contactinformation,Error
+raw_email_id,carrie_rees1243518944@tonsy.org,Yes,,Email,email,6875,,Single-line text,string,text,Yes,Raw Email Ids.csv,"C:\Users\Andres Garcia Bayona\Documents\Training\APIs, CRMs and notebook management\Challenge1",Raw Email,Id,contactinformation,Error
